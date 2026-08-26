@@ -50,5 +50,5 @@ OpenCV Processing
      ▼
 Processed Image
 
-# Collaborators
+
 
